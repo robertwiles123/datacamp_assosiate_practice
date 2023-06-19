@@ -1,0 +1,38 @@
+1a:
+Region:
+    Data type matches
+    Correct input of data, no null objects
+Place name:
+    Data type matches
+Place type:
+    Data type matches
+    Correct input of data, no null objects
+Name
+    Data type matches
+Rating
+    Data type matches
+    Has NAN values - should be 0
+Reviews
+    Data type matches
+    NAN values present, should be replaced with median
+Price
+    Data type matches
+    Correct data input
+Delivery Option
+    Data type does not match, is Bool, but object is reported
+    This is due to options being nan or True
+Dine in OptionTakeout option
+    Data type does not match, is Bool, but object is reported
+    This is due to options being nan or True
+
+
+1b:
+Rating = 2 missing
+Reviews = 2 missing
+Dine in = 60 missing
+takeout = 56 missing
+
+1C:
+
+To replace the msising I created a dictonary with the key value pairs matching the name of the column and the type of fill for example for rating 0 and for Dine in option False,
+this had the added benifit of changing the Dtype to bool as it should be. For reviews I used np.nanmedian to calculate the mediun while excluding the nan data.
