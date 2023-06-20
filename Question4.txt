@@ -1,3 +1,8 @@
 There does not seem to be any real corolation between the number of reviews and the ratings resturants got. 
 Between around 3.9 and 4.6 have similar levels of reviews, except a dip that happens around 4.3. After 4.6 there are less reviews, meaning that the highest rated seem to have less reviews.
 If the line is looked at purely between 4.2 and 4.7 it does seem that as reviews increase so does rating, but only for this small area.
+
+When changed to a boxplot this is still true but it is clear that I still have the outliar. 
+
+After doing so the general trend as above is the same, however around 4.5 and 4.6 there is a large range between the average reviews and the upper maxiumums.
+There seems to be a lot of outliars in the amount of reviews with a rating of 4.6.  With the normal ranges shrinking and the amount of reviews decreasing.

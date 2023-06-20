@@ -25,3 +25,5 @@ sns.histplot(stores_grouped_rating_clean.index, kde=True)
 plt.title('Distribution for number of resturant reviews', y=1.05)
 plt.xlabel('Reviews')
 plt.savefig('question3_visual_clean.png', format='png')
+
+stores_grouped_rating_clean.to_csv('coffee_clean_v2.csv')
