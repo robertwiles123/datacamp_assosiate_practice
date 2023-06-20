@@ -1,0 +1,3 @@
+There does not seem to be any real corolation between the number of reviews and the ratings resturants got. 
+Between around 3.9 and 4.6 have similar levels of reviews, except a dip that happens around 4.3. After 4.6 there are less reviews, meaning that the highest rated seem to have less reviews.
+If the line is looked at purely between 4.2 and 4.7 it does seem that as reviews increase so does rating, but only for this small area.
