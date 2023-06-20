@@ -31,3 +31,5 @@ coffee_clean = coffee.fillna(cols_to_clean)
 
 
 print(coffee_clean.info())
+
+coffee_clean.to_csv('coffee_clean.csv')

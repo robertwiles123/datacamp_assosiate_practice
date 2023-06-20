@@ -1,6 +1,6 @@
 2A.
-The most common rating, both by use of printing the table of counted reports and use of a graph is 4.6
+The most common rating, both by use of printing the table of counted reports and use of a graph is 4.6, this is for each catagory
 
 2B. 
 The data does not seem to be balanced in that there is a large waiting to the right of the graph with there being a small uptick at 4.3 which doubles at 4.4 till it peaks at 
-4.6 and athough it decreases it still says at least 9 times higher then the 3.9 to 4.2 range, with nothing lower then there
+4.6 and athough it decreases it still says at least 9 times higher then the 3.9 to 4.2 range, with nothing lower then there, except for the mssing values that where stores as a 0.
