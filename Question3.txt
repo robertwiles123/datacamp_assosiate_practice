@@ -1,1 +1,3 @@
-The number of reviews is very heavily left skewed
+The number of reviews is heavily right skewed, there seems to be a single piece of data that is at 17937 which is far behind the next highest of 202. 
+I then recompleted the distribution removing the potential error, this gives a much easier to read distribution.
+The distribution is still left skewed with most being under 500 reviews, though there are many that are higher then this.
