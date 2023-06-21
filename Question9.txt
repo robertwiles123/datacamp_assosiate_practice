@@ -1,4 +1,4 @@
-Write the code for this, import the models then do the comparison, take it from both Q6 and Q7
+Code for this can be found at the bottom of Q6 line 39 to end and Q7 line 68 to end python code
 
 Linear regression (lr) scores: 
 Mean Squared Error (MSE): 46332721.24360673

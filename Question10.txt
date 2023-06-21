@@ -1,0 +1,1 @@
+Overall the better performing model was that of the RDT this is because its MSE and MAE is both far lower and its R2 score is higher. Though it is not performing well, and there should be other models such as Gradient Boosting Regression or Neural Network Regression tried.
