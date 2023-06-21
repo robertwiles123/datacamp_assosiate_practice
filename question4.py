@@ -8,7 +8,7 @@ coffee = pd.read_csv('coffee_clean.csv')
 
 #to drop the annomaly
 coffee_cleaned = coffee.loc[coffee['Reviews'] != 17937.0]
-
+coffee_cleaned.to_csv('coffee_clean_v3.csv')
 
 # make graph prettier
 # add labeled title etc.

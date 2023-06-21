@@ -1,0 +1,2 @@
+I chose a linear regressio model for questin 6 as it is a smiple regression model that is less prone to overfitting. Further to this it is computetionally easy so simple to run, meaning it if is effective it does not cost much to impliment it. though it does work better with more simple data.
+I chose a random forest regression model for question 7 as the data being used is quite complex and this model works well with complex data if tuned correctly. It can be computetionally hard to run though.

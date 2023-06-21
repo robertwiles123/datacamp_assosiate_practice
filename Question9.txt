@@ -1,0 +1,20 @@
+Write the code for this, import the models then do the comparison, take it from both Q6 and Q7
+
+Linear regression (lr) scores: 
+Mean Squared Error (MSE): 46332721.24360673
+Mean Absolute Error (MAE): 2901.1817114302457
+R-squared (R2): -80.19381377029863
+
+Random decision tree (RDT) scores:
+Mean Squared Error (MSE): 443935.6016949515
+Mean Absolute Error (MAE): 430.1024705234101
+R-squared (R2): 0.22204386872702753
+
+MSE:
+The RDT scored siginificatly lower then that of the lr model implying that the average errors in predictions is far lower withing the RDT
+
+MAE:
+Again is far lower in the RDT meaning that the absolute errors is much lower here. This means that the RDT is getting closer to the real values by a large margin
+
+R2:
+The lr get a negative score which means it is unable to make any accurate predictions. While the RDT got accurate scores the score of 0.22204 is not partically good only making accurate predictions around 22.2% of the time
